@@ -2,7 +2,7 @@
 
 Este é um projeto simples que gera frases motivacionais com base no estado emocional do usuário. O front-end foi desenvolvido em JavaScript e o back-end em Python (Flask).
 
-![Tela inicial do projeto](frontend/img/inicial.jpg)
+![Tela inicial do projeto](img/inicial.jpg)
 
 ## Funcionalidades
 - O usuário seleciona seu estado emocional clicando em um botão.
