@@ -1,0 +1,22 @@
+{
+    "feliz": [
+        "Você está no caminho certo!",
+        "Continue brilhando!",
+        "Sua energia positiva é contagiante!"
+    ],
+    "triste": [
+        "Tudo vai melhorar, confie no processo.",
+        "Você é mais forte do que imagina.",
+        "A tempestade sempre passa."
+    ],
+    "ansioso": [
+        "Respire fundo e confie no seu potencial.",
+        "Você já superou desafios antes, e vai superar novamente.",
+        "Um passo de cada vez."
+    ],
+    "neutro": [
+        "Hoje é um novo dia cheio de possibilidades.",
+        "Pequenos passos levam a grandes conquistas.",
+        "Você está evoluindo a cada dia."
+    ]
+}
