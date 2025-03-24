@@ -14,11 +14,5 @@ Este é um projeto simples que gera frases motivacionais com base no estado emoc
 - **Back-End**: Python (Flask)
 - **Ferramentas**: Visual Studio Code, GitHub
 
-## Como Executar o Projeto
-
-### Pré-requisitos
-- Python 3.x instalado
-- Node.js (opcional, para servir o front-end)
-
 
 
